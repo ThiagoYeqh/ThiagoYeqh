@@ -1,4 +1,4 @@
-## Salverson rapeize, sou Thiago Yeqh e curto programação!
+## Salverson rapeize
 <div align="center">
   <a href="https://github.com/ThiagoYeqh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoYeqh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

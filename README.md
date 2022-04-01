@@ -5,7 +5,6 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Th-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Th-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/264101569333559297/e9cad45293580427df9e673718814bf7.png?size=2048">
 </div>
   
   ##

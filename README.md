@@ -4,9 +4,7 @@
 
 ### Desenvolvedor em evolução e sempre mexendo em algo novo.
 
-<a href="https://github.com/ThiagoYeqh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiagoYeqh&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub stats do ThiagoYeqh" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoYeqh&theme=github_dark" alt="Resumo do GitHub" />
 
 </div>
 

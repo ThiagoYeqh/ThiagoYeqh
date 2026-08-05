@@ -25,7 +25,7 @@ Estou sempre buscando evoluir e transformar curiosidade em projeto real.
   <a href="https://www.twitch.tv/thiagoyeqh" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
   </a>
-  <a href="https://discord.gg/5taDTTN4du" target="_blank">
+  <a href="https://discord.gg/bTF7aQt7Zk" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
